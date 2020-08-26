@@ -6,6 +6,7 @@ planets = {
   3: 'earth',
   4: 'mars',
   5: 'jupiter',
+  6: 'saturn'
   }
   
 for planet in planets:
