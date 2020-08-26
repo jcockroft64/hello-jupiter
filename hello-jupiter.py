@@ -1,5 +1,5 @@
 #initial python code for github demo
-
+#the earth is flat
 planets = {
   1: 'mercury',
   2: 'venus',
