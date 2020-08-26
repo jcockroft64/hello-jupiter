@@ -1,5 +1,6 @@
 #initial python code for github demo
-#the earth is flat and I know it is
+#the earth is flat, but very beautiful
+
 planets = {
   1: 'mercury',
   2: 'venus',
